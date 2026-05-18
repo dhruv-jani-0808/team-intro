@@ -101,7 +101,9 @@ college  : BVM
 Skills   : Full Stack Developer
 Email    : nidhish1132007@gmail.com
 phone    : 9016325239
-GitHub   : ZalaNidhish
+GitHub   : https://github.com/ZalaNidhish
+Linkedin : https://www.linkedin.com/in/nidhish-zala
+Team Leader : Nidhish
 ------------------------------
 
   [ Your entry goes below this line ]
