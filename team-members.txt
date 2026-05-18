@@ -182,13 +182,13 @@ Linkedin : https://www.linkedin.com/in/mananmonani/
 Portfolio: https://mananmonani.vercel.app/
 Team Leader : Nidhish
 
-Name     : Akshara
-college  : Charusat
+Name     : Chandni Kothari
+college  : CHARUSAT
 Skills   : Data Science
-Email    : pandyaakshara09@gmail.com
-phone    : 7984009723
-GitHub   : https://github.com/Akshara369
-Linkedin : https://www.linkedin.com/in/akshara-pandya
+Email    : kotharichandni183@gmail.com
+phone    : 8160410272
+GitHub   : https://github.com/Chandni-K12
+Linkedin : https://www.linkedin.com/in/chandnikothari12/
 Team Leader : Nidhish
 
 Name     : Jalisa Malik
