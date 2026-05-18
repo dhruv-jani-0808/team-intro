@@ -109,3 +109,12 @@ Team Leader : Nidhish
   [ Your entry goes below this line ]
 
 ============================================================
+
+Name     : Hima Mehta
+college  : CHARUSAT
+Skills   : Machine Learning
+Email    : mehtahima1510@gmail.com
+phone    : 9157728798
+GitHub   : https://github.com/Hima1510
+Linkedin : https://www.linkedin.com/in/hima-mehta-549436318
+Team Leader : Nidhish
