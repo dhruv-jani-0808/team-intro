@@ -107,8 +107,109 @@ Team Leader : Nidhish
 ------------------------------
 
   [ Your entry goes below this line ]
+  
 
-============================================================
+Name     : Prince Ghevariya
+college  : CHARUSAT - DEPSTAR
+Skills   : AI/ML
+Email    : princeghevariya2030@gmail.com
+phone    : 9925128371
+GitHub   : https://github.com/PrinceGhevariya-23DCS033
+Linkedin : https://www.linkedin.com/in/prince-ghevariya-9614b128b/
+Team Leader : Nidhish
+
+Name     : Dhaval Prajapati
+college  : BVM
+Skills   : Frontnd + MERN Developer 
+Email    : dhavalprajapati5115@gmail.com
+phone    : 6354012336
+GitHub   : https://github.com/Dhaval-0511
+Linkedin : www.linkedin.com/in/dhaval-prajapati-a62401292
+Team Leader : Jay Vaghela
+
+Name     : Dhruvil
+college  : BVM
+Skills   : Frontend Developer
+Email    : dhruvilgandhi1203@gmail.com
+phone    : 7779003922
+GitHub   : https://github.com/dhruvil-1207
+Linkedin : www.linkedin.com/in/dhruvil-gandhi
+Team Leader : Meet
+
+Name     : Uday
+college  : BVM
+Skills   : Full Stack Developer
+Email    : udaygadhavi2410@gmail.com
+phone    : 8734939148
+GitHub   : https://github.com/KraisuN-1010
+Linkedin : https://www.linkedin.com/in/gadhavi-uday
+Team Leader : Meet
+
+Name     : Harmit
+college  :Charusat University of Science and technology
+Skills   :Java Backend development
+Email    : harmitjetani@gmail.com
+phone    : 9426739895
+GitHub   : https://github.com/Harmit07
+Linkedin : https://www.linkedin.com/in/harmit-jetani-a17501283/
+Team Leader : Nidhish
+
+Name     : Kashish Gandhi
+college  : CHARUSAT
+Skills   : CLOUD(AWS)
+Email    : kashishgandhi.278@gmail.com
+phone    : 9512952812
+GitHub   : https://github.com/hustlerkashish
+Linkedin : https://www.linkedin.com/in/kashishgandhi-639aa4287
+Team Leader : Nidhish
+
+Name     : Dhruv Jani
+college  : BVM
+Skills   : Full Stack Developer
+Email    : dhruv.jani.0808@gmail.com
+phone    : 7600808675
+GitHub   : https://github.com/dhruv-jani-0808
+Linkedin : https://www.linkedin.com/in/dhruv-jani-366604326
+Team Leader : Meet
+
+Name     : Manan Monani
+college  : CHARUSAT - DEPSTAR
+Skills   : AI/ML
+Email    : mmmonani747@gmail.com
+phone    : 70168 53244
+GitHub   : https://github.com/manan-monani
+Linkedin : https://www.linkedin.com/in/mananmonani/
+Portfolio: https://mananmonani.vercel.app/
+Team Leader : Nidhish
+
+Name     : Jalisa Malik
+college  : CHARUSAT - DEPSTAR
+Skills   : Full Stack Developer
+Email    : jalisamalik21@gmail.com
+phone    : 9725146587
+GitHub   : https://github.com/jalisa2106
+Linkedin : https://www.linkedin.com/in/jalisa-malik-8b0308333/
+Portfolio: https://jalisamalik.vercel.app/
+Team Leader : Meet
+
+Name     : Swara Jariwala
+college  : CHARUSAT
+Skills   : AI/ML
+Email    : swarajariwala@gmail.com
+phone    : 9979067896
+GitHub   : https://github.com/0604-swara
+Linkedin : https://www.linkedin.com/in/swara-jariwala-81159b28b/
+Team Leader : Nidhish
+
+Name     : Ritu Chaudhari
+college  : CHARUSAT - DEPSTAR
+Skills   : CyberSecurity
+Email    : rituchaudhary15077@gmail.com
+phone    : 8849591402
+GitHub   :  https://github.com/rituchaudhary-07
+Linkedin : https://www.linkedin.com/in/ritu-chaudhari-335532331
+Team Leader : Nidhish
+
 
 Name     : Hima Mehta
 college  : CHARUSAT
