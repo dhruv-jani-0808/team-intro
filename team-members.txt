@@ -181,3 +181,13 @@ GitHub   : https://github.com/manan-monani
 Linkedin : https://www.linkedin.com/in/mananmonani/
 Portfolio: https://mananmonani.vercel.app/
 Team Leader : Nidhish
+
+Name     : Ritu Chaudhari
+college  : CHARUSAT - DEPSTAR
+Skills   : CyberSecurity
+Email    : rituchaudhary15077@gmail.com
+phone    : 8849591402
+GitHub   :  https://github.com/rituchaudhary-07
+Linkedin : https://www.linkedin.com/in/ritu-chaudhari-335532331
+Team Leader : Nidhish
+
