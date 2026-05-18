@@ -109,3 +109,13 @@ Team Leader : Nidhish
   [ Your entry goes below this line ]
 
 ============================================================
+
+Name     : Manan Monani
+college  : CHARUSAT - DEPSTAR
+Skills   : AI/ML
+Email    : mmmonani747@gmail.com
+phone    : 70168 53244
+GitHub   : https://github.com/manan-monani
+Linkedin : https://www.linkedin.com/in/mananmonani/
+Portfolio: https://mananmonani.vercel.app/
+Team Leader : Nidhish
