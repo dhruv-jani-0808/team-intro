@@ -109,3 +109,12 @@ Team Leader : Nidhish
   [ Your entry goes below this line ]
 
 ============================================================
+
+Name     : Dhaval Prajapati
+college  : BVM
+Skills   : Frontnd + MERN Developer 
+Email    : dhavalprajapati5115@gmail.com
+phone    : 6354012336
+GitHub   : https://github.com/Dhaval-0511
+Linkedin : www.linkedin.com/in/dhaval-prajapati-a62401292
+Team Leader : Jay Vaghela
