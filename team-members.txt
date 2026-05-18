@@ -111,7 +111,6 @@ Team Leader : Nidhish
 ============================================================
 
 ------------------------------
-( Example Entry — Copy & Replace with your details )
 Name     : Uday
 college  : BVM
 Skills   : Full Stack Developer
