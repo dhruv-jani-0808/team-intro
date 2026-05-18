@@ -152,3 +152,12 @@ GitHub   : https://github.com/manan-monani
 Linkedin : https://www.linkedin.com/in/mananmonani/
 Portfolio: https://mananmonani.vercel.app/
 Team Leader : Nidhish
+
+Name     : Swara Jariwala
+college  : CHARUSAT
+Skills   : AI/ML
+Email    : swarajariwala@gmail.com
+phone    : 9979067896
+GitHub   : https://github.com/0604-swara
+Linkedin : https://www.linkedin.com/in/swara-jariwala-81159b28b/
+Team Leader : Nidhish
