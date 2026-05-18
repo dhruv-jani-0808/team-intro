@@ -105,6 +105,8 @@ GitHub   : https://github.com/ZalaNidhish
 Linkedin : https://www.linkedin.com/in/nidhish-zala
 Team Leader : Nidhish
 ------------------------------
+
+
 Name     : Harmit
 college  :Charusat University of Science and technology
 Skills   :Java Backend development
@@ -113,5 +115,31 @@ phone    : 9426739895
 GitHub   : https://github.com/Harmit07
 Linkedin : https://www.linkedin.com/in/harmit-jetani-a17501283/
 Team Leader : Nidhish
-============================================================
 
+Name     : Kashish Gandhi
+college  : CHARUSAT
+Skills   : CLOUD(AWS)
+Email    : kashishgandhi.278@gmail.com
+phone    : 9512952812
+GitHub   : https://github.com/hustlerkashish
+Linkedin : https://www.linkedin.com/in/kashishgandhi-639aa4287
+Team Leader : Nidhish
+
+Name     : Dhruv Jani
+college  : BVM
+Skills   : Full Stack Developer
+Email    : dhruv.jani.0808@gmail.com
+phone    : 7600808675
+GitHub   : https://github.com/dhruv-jani-0808
+Linkedin : https://www.linkedin.com/in/dhruv-jani-366604326
+Team Leader : Meet
+
+Name     : Manan Monani
+college  : CHARUSAT - DEPSTAR
+Skills   : AI/ML
+Email    : mmmonani747@gmail.com
+phone    : 70168 53244
+GitHub   : https://github.com/manan-monani
+Linkedin : https://www.linkedin.com/in/mananmonani/
+Portfolio: https://mananmonani.vercel.app/
+Team Leader : Nidhish
