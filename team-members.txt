@@ -107,5 +107,15 @@ Team Leader : Nidhish
 ------------------------------
 
   [ Your entry goes below this line ]
+  ------------------------------
+Name     : Prince Ghevariya
+college  : CHARUSAT - DEPSTAR
+Skills   : AI/ML
+Email    : princeghevariya2030@gmail.com
+phone    : 9925128371
+GitHub   : https://github.com/PrinceGhevariya-23DCS033
+Linkedin : https://www.linkedin.com/in/prince-ghevariya-9614b128b/
+Team Leader : Nidhish
+------------------------------
 
 ============================================================
