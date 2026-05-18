@@ -1,0 +1,111 @@
+============================================================
+           TEAM GIT & GITHUB PRACTICE
+============================================================
+  TASK  : Add your details to this file and raise a PR
+  GOAL  : Learn the real-world GitHub collaboration workflow
+============================================================
+
+
+============================================================
+ HOW TO NAME YOUR BRANCH
+============================================================
+
+  Format  :  member/<your-name>
+  Example :  member/parth
+             member/jay
+             member/het
+
+  Command :  git checkout -b member/<your-name>
+
+  Rules   :  Do NOT work on main branch directly
+
+
+============================================================
+ STEPS TO COMPLETE THE TASK
+============================================================
+
+  STEP 1 — Install Git
+  --------------------
+  Download from : https://git-scm.com/downloads
+  Verify        : git --version
+
+  STEP 2 — Configure Git (One time only)
+  ---------------------------------------
+  git config --global user.name "Your Name"
+  git config --global user.email "you@example.com"
+
+  STEP 3 — Clone the Repository
+  ------------------------------
+  git clone <repo-url>
+  cd <repo-folder>
+
+  STEP 4 — Create Your Branch
+  ----------------------------
+  git checkout -b member/<your-name>
+  Example : git checkout -b member/het
+
+  STEP 5 — Add Your Details
+  --------------------------
+  Open this file (team-members.txt)
+  Scroll to the TEAM MEMBERS section below
+  Copy the format and fill in your details
+  Save the file
+
+  STEP 6 — Stage & Commit
+  ------------------------
+  git add team-members.txt
+  git commit -m "Add <your-name> details"
+  Example : git commit -m "Added Het details"
+
+  STEP 7 — Push to GitHub
+  ------------------------
+  git push origin member/<your-name>
+  Example : git push origin member/het
+
+  STEP 8 — Raise a Pull Request
+  ------------------------------
+  - Go to the GitHub repo in your browser
+  - You will see a prompt "Compare & pull request" — click it
+  - Title  : Add <Your Name> to team members
+  - Click  : "Create Pull Request"
+  - Done! Wait for the team lead to review and merge ✅
+
+  STEP 9 — Sync After Everyone Merges
+  -------------------------------------
+  git checkout main
+  git pull origin main
+  (Now you will see everyone's details in this file!)
+
+
+============================================================
+ IMPORTANT RULES
+============================================================
+
+  ✅ Always create a new branch before making changes
+  ✅ Follow the details format exactly as shown below
+  ✅ One PR per person
+  ❌ Do NOT edit anyone else's details
+  ❌ Do NOT push directly to main branch
+ 
+  ============================================================
+ TEAM MEMBERS — ADD YOUR DETAILS BELOW
+============================================================
+ Copy the format below and fill in your own details.
+ Add your block after the last entry. Do not remove dashes.
+============================================================
+
+------------------------------
+( Example Entry — Copy & Replace with your details )
+Name     : Het
+Skills   : Python, JavaScript
+Email    : het@example.com
+phone    : 1234567890
+GitHub   : @het
+------------------------------
+
+  [ Your entry goes below this line ]
+
+
+
+
+============================================================
