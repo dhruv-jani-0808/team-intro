@@ -182,6 +182,15 @@ Linkedin : https://www.linkedin.com/in/mananmonani/
 Portfolio: https://mananmonani.vercel.app/
 Team Leader : Nidhish
 
+Name     : Akshara
+college  : Charusat
+Skills   : Data Science
+Email    : pandyaakshara09@gmail.com
+phone    : 7984009723
+GitHub   : https://github.com/Akshara369
+Linkedin : https://www.linkedin.com/in/akshara-pandya
+Team Leader : Nidhish
+
 Name     : Jalisa Malik
 college  : CHARUSAT - DEPSTAR
 Skills   : Full Stack Developer
@@ -218,3 +227,12 @@ phone    : 92650 09865
 GitHub   : https://github.com/Harvi41
 Linkedin : http://linkedin.com/in/harvi-gothi-8985a3320
 Team Leader : Meet
+
+Name     : Hima Mehta
+college  : CHARUSAT
+Skills   : Machine Learning
+Email    : mehtahima1510@gmail.com
+phone    : 9157728798
+GitHub   : https://github.com/Hima1510
+Linkedin : https://www.linkedin.com/in/hima-mehta-549436318
+Team Leader : Nidhish
