@@ -219,6 +219,14 @@ GitHub   :  https://github.com/rituchaudhary-07
 Linkedin : https://www.linkedin.com/in/ritu-chaudhari-335532331
 Team Leader : Nidhish
 
+Name     : Harvi Gothi
+college  : BVM
+Skills   : Mern Stack Developer
+Email    : harvigothi@gmail.com
+phone    : 92650 09865
+GitHub   : https://github.com/Harvi41
+Linkedin : http://linkedin.com/in/harvi-gothi-8985a3320
+Team Leader : Meet
 
 Name     : Hima Mehta
 college  : CHARUSAT
